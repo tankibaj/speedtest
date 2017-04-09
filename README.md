@@ -21,6 +21,6 @@ Once it ends, you can run it again to Speed Test again.
 
 ./speedtest_installer.sh -i
 
-### Now run serverinfo command from anywhere using any user account simply
+### Now run serverinfo command from anywhere using any user account simply as:
 
 `speedtest`
