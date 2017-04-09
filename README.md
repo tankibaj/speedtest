@@ -13,7 +13,7 @@ Once it ends, you can run it again to Speed Test again.
 
 #### Download and make it executable
 
-`https://raw.githubusercontent.com/tankibaj/speedtest/master/speedtest_installer.sh`
+`wget https://raw.githubusercontent.com/tankibaj/speedtest/master/speedtest_installer.sh`
 
 `chmod 755 speedtest_installer.sh`
 
