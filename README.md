@@ -26,7 +26,8 @@ speedtest
 
 ```bash
 wget https://raw.githubusercontent.com/tankibaj/speedtest/master/speedtest && \
-sudo mv speedtest /usr/local/bin/speedtest && \
+sudo chmod +x speedtest && \
+sudo mv speedtest /usr/bin/speedtest && \
 speedtest
 ```
 
