@@ -4,7 +4,7 @@ Speedtest CLI brings the trusted technology and global server network behind Spe
 
 ## Download & Run
 
-`wget https://raw.githubusercontent.com/tankibaj/speedtest/master/install.sh && sudo bash install.sh`
+`wget https://raw.githubusercontent.com/tankibaj/speedtest/master/speedtest.sh && sudo bash install.sh`
 
 #### Now run serverinfo command from anywhere using any user account simply as:
 
